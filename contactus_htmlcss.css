@@ -1,0 +1,97 @@
+/* Readme
+Contact Us Form using html css */
+
+.outer-column {
+  border: 3px solid black;
+  margin: auto;
+  height: 52vh;
+  width: 50vh;
+  padding: 12px;
+  background-color: #f0e8e8;
+  display: flex;
+  flex-direction: column;
+}
+.contactus {
+  /* border: 3px solid blue; */
+  height: 4vh;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.Name {
+  /* border: 3px solid green; */
+  height: 6vh;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.Email {
+  /* border: 3px solid green; */
+  height: 6vh;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.phonenumber {
+  /* border: 3px solid grey; */
+  height: 8vh;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.message {
+  /* border: 3px solid grey; */
+  height: 12vh;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.outer-button {
+  /* border: 3px solid grey; */
+  height: 9vh;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+input[type="text"] {
+  border: 1px solid grey;
+  height: 4vh;
+  width: 30vh;
+  margin-left: 80px;
+}
+input[type="email"] {
+  border: 1px solid grey;
+  height: 4vh;
+  width: 30vh;
+  margin-left: 80px;
+}
+input[type="tel"] {
+  border: 1px solid grey;
+  height: 4vh;
+  width: 30vh;
+  margin-left: 22px;
+}
+textarea {
+  border: 1px solid grey;
+  height: 10vh;
+  width: 30vh;
+  margin-left: 120px;
+}
+button {
+  background-color: #7fffd45e;
+  border: 2px solid black;
+  height: 30px;
+  text-align: center;
+}
+.outer-button1 {
+  /* border: 3px solid grey; */
+  width: 60px;
+  height: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.outer-button2 {
+  /* border: 3px solid grey; */
+  width: 60px;
+  height: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
